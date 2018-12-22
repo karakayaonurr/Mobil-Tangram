@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitirme Projesi", "Bitirme Projesi.csproj", "{0C4D1631-2F73-A491-107C-C6A84B81E7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitirme Projesi.Editor", "Bitirme Projesi.Editor.csproj", "{BC1FF246-44D4-06AA-D7DC-85EEB460D4A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4D1631-2F73-A491-107C-C6A84B81E7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4D1631-2F73-A491-107C-C6A84B81E7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4D1631-2F73-A491-107C-C6A84B81E7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4D1631-2F73-A491-107C-C6A84B81E7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1FF246-44D4-06AA-D7DC-85EEB460D4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1FF246-44D4-06AA-D7DC-85EEB460D4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1FF246-44D4-06AA-D7DC-85EEB460D4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1FF246-44D4-06AA-D7DC-85EEB460D4A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aec776008bf2d0e42a3d662528834a0a
+timeCreated: 1524680078
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Brannboll Ny Personal Use Only
+  fontNames:
+  - Brannboll Ny Personal Use Only
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
